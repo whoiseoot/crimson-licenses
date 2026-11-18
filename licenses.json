@@ -1,0 +1,17 @@
+{
+  "users": {
+    "d2e03969796d726142f64eef": {
+      "type": "permanent"
+    },
+    "757f18c16a78e0702f278045": {
+      "type": "rental",
+      "expires": 1797517386
+    },
+    "086031fe9f77844a5c5d8e62": {
+      "type": "permanent"
+    },
+    "48248942773659a04de576b9": {
+      "type": "permanent"
+    }
+  }
+}
